@@ -1,5 +1,7 @@
-def suma(x,y):
-    return x+y
 
-resultado = suma(5,3)
-print(resultado)
+def resta(x,y):
+    return x-y
+
+resultado2 = resta(5,3)
+print(resultado2)
+
